@@ -1,6 +1,6 @@
 # Hamming Distance and Similarity Engine
 
-This is our project for the course COL215 (Digital Logic and System Design) at IIT Delhi. It has two parts:
+This is our project for the course COL2015 (Digital Logic and System Design) at IIT Delhi. It has two parts:
 
 - **Lab 4a:** a circuit in Verilog that finds the Hamming distance between two 8-bit numbers. We tested it in simulation.
 - **Lab 4b:** we put the same circuit on a Basys3 FPGA board, so we can use switches, LEDs and the seven-segment display.
